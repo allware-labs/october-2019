@@ -17,8 +17,8 @@ Una empresa debe poder guardar los siguientes atributos nombre(obligatorio), el 
 
 Desarrolle una interfaz de usuario que permita obtener desde la API Restful creada en el problema 1:
 
--  Lista de empresas y listarla en una tabla.
--  Creación de una empresa.
+-  Listado de empresas
+-  Crear empresas.
 
 **Indicador**
 - Uso de Javascrip. Se permite el uso de ReactJS(Ideal), VUE, jQuery
@@ -41,7 +41,7 @@ Desarrolle una interfaz de usuario que permita obtener desde la API Restful crea
 Al recibir esta prueba debe responder señalando cuando tendrá respuesta de la misma.
 Cuando envíe la respuesta en el tiempo comprometido debe considerar, la resolución de
 problemas deben ser enviados al correo dburgos@allware.cl en formato ZIP y sólo los
-fuentes, si se utilizó github enviar link o nombre de la rama. El mail debe contener el en asunto el nombre del
+fuentes, si se utilizó github enviar link o nombre de la rama. El mail debe contener en el asunto el nombre del
 postulante seguido de guion (-) y “Prueba evaluación técnica”, ejemplo Jhon Doe - Prueba
 evaluación técnica.
 
