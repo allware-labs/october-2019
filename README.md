@@ -47,7 +47,7 @@ Desarrolle una interfaz de usuario que permita obtener desde la API Restful crea
 
 # Entrega
 
-Al recibir esta prueba debe responder señalando cuando tendrá respuesta de la misma.
+Al recibir esta prueba debe responder señalando cuando tendrá respuesta de la misma fecha y hora.
 El resultado debe presentando en un repositorio de github publico
 
 **Indicador**
