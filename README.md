@@ -34,9 +34,9 @@ Desarrolle una interfaz de usuario que permita obtener desde la API Restful crea
 
 - Estilo de código 
 
-https://www.php-fig.org/psr/psr-12/ 
-https://www.php-fig.org/psr/psr-1/ 
-https://www.php-fig.org/psr/psr-2/
+- https://www.php-fig.org/psr/psr-12/ 
+- https://www.php-fig.org/psr/psr-1/ 
+- https://www.php-fig.org/psr/psr-2/
 
 - Uso de Comentarios
 - Uso de Logs
